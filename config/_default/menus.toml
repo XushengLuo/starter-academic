@@ -19,6 +19,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
 [[main]]
-	name = "Curriculum Vite"
+	name = "Curriculum Vitae"
 	url = "media/cv.pdf"
 	weight = 70
