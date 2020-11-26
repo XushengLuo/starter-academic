@@ -2,9 +2,9 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
@@ -73,14 +73,15 @@ subtitle = ""
 <!-- Quickly discover relevant content by [filtering publications](./publication/). -->
 <!-- {{% /callout %}} -->
 
-## Journal Articles
+
+### <span style="color: #6495ED"> Journal Articles
 
 1. **Xusheng Luo**  and Michael M. Zavlanos, “Temporal Logic Task Allocation and Motion Planning in Multi-Robot Systems”, *International Journal of Robotics Research*, 2020. (Submitted)
 2. **Xusheng Luo**, Yiannis Kantaros, and Michael M. Zavlanos, “[An Abstraction-Free Method for Multi-Robot Temporal Logic Optimal Control Synthesis](https://arxiv.org/pdf/1909.00526.pdf)”, *IEEE Transactions
 on Robotics*, 2020. (Conditionally accepted)
 3. **Xusheng Luo**, Miroslav Pajic, and Michael M. Zavlanos, “[An Optimal Graph-Search Method for Secure State Estimation](https://www.sciencedirect.com/science/article/pii/S0005109820305239)”, *Automatica*, 2020.
 
-## Conference Proceedings
+### <span style="color: #6495ED"> Conference Proceedings
 1. Shiqi Sun, Yan Zhang, **Xusheng Luo**, P. Vlantis, and M M. Zavlanos, “Formal Verification of Stochastic Systems with ReLU Neural Network Controller”, *IEEE International Conference on Robotics and Automation (ICRA)*, Xi'an, China, 2021.(Submitted) 
 2. Yijie Zhou, Yan Zhang, **Xusheng Luo**, and Michael M. Zavlanos, “[Human-in-the-Loop Robot Planning with Non-Contextual Bandit Feedback](https://arxiv.org/pdf/2011.01793.pdf)”, *IEEE International Conference on Robotics and Automation (ICRA)*, Xi'an, China, 2021. (Submitted)
 1. **Xusheng Luo<sup>\*</sup>**, Yan Zhang<sup>\*</sup>, and Michael M. Zavlanos, “[Socially-Aware Robot Planning via Bandit Human Feedback](https://ieeexplore.ieee.org/document/9095999?denied=)”, *ACM 11th International Conference on Cyber-Physical Systems (ICCPS)*, Sydney, Australia, April, 2020, pp. 216-225. (\* equal contribution)
