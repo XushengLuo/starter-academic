@@ -76,7 +76,7 @@ subtitle = ""
 
 ### <span style="color: #6495ED"> Journal Articles
 
-1. **Xusheng Luo**  and Michael M. Zavlanos, “Temporal Logic Task Allocation and Motion Planning in Multi-Robot Systems”, *International Journal of Robotics Research*, 2020. (Submitted)
+1. **Xusheng Luo**  and Michael M. Zavlanos, “[Temporal Logic Task Allocation and Motion Planning in Multi-Robot Systems](https://arxiv.org/pdf/2101.05694.pdf)”, *International Journal of Robotics Research*, 2020. (Submitted)
 2. **Xusheng Luo**, Yiannis Kantaros, and Michael M. Zavlanos, “[An Abstraction-Free Method for Multi-Robot Temporal Logic Optimal Control Synthesis](https://arxiv.org/pdf/1909.00526.pdf)”, *IEEE Transactions
 on Robotics*, 2020. (Conditionally accepted)
 3. **Xusheng Luo**, Miroslav Pajic, and Michael M. Zavlanos, “[An Optimal Graph-Search Method for Secure State Estimation](https://www.sciencedirect.com/science/article/pii/S0005109820305239)”, *Automatica*, 2020.
