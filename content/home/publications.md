@@ -69,10 +69,6 @@ subtitle = ""
  css_class = ""
 +++
 
-<!-- {{% callout note %}} -->
-<!-- Quickly discover relevant content by [filtering publications](./publication/). -->
-<!-- {{% /callout %}} -->
-
 
 ### <span style="color: #6495ED"> Journal Articles
 

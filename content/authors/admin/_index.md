@@ -26,7 +26,7 @@ education:
   courses:
   - course: Ph.D. in Mechanical Engineering
     institution: Duke University, U.S.
-    year:  Nov. 2020
+    year:  Dec. 2020
   - course: M.Sc. in Mechanical Engineering
     institution: Duke University, U.S.
     year: May 2020
@@ -75,7 +75,7 @@ user_groups:
 - Visitors: 
 ---
 
-I am currently a Ph.D. candidate at the Department of Mechanical Engineering and Material Sciences, Duke University, under the supervision of Dr. [Michael M. Zavlanos](http://people.duke.edu/~mz61/). I am going to graduate in November 2020. Prior to it, I received the B.Eng. and M.S.E. degrees in Aerospace Engineering from the Harbin Institute of Technology, China, in 2015 and 2017, respectively.
+I received the Ph.D. degree in Mechanical Engineering and Materials Science from Duke University in December 2020, under the supervision of Dr. [Michael M. Zavlanos](http://people.duke.edu/~mz61/). Prior to it, I received the B.Eng. and M.S.E. degrees in Aerospace Engineering from the Harbin Institute of Technology, China, in 2015 and 2017, respectively.
 
 My research interest broadly centers around robotics, mainly focusing on motion planning and control synthesis for multi-robot systems under high-level tasks specified by temporal logic formulas. The goal is to design correct-by-construction algorithms with optimality or scalability properties to tackle more complex tasks than conventional point-to-point navigation. In addition, I conducted projects related to human-robot interaction and formal verification of neural network controllers.
  

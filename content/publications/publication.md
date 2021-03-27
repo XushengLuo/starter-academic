@@ -69,21 +69,18 @@ subtitle = ""
  css_class = ""
 +++
 
-<!-- {{% callout note %}} -->
-<!-- Quickly discover relevant content by [filtering publications](./publication/). -->
-<!-- {{% /callout %}} -->
 
 
 ### <span style="color: #6495ED"> Journal Articles
 
-1. **Xusheng Luo**  and Michael M. Zavlanos, “[Temporal Logic Task Allocation and Motion Planning in Multi-Robot Systems](https://arxiv.org/pdf/2101.05694.pdf)”, *International Journal of Robotics Research*, 2020. (Submitted)
+1. **Xusheng Luo**  and Michael M. Zavlanos, “[Temporal Logic Task Allocation and Motion Planning in Multi-Robot Systems](https://arxiv.org/pdf/2101.05694.pdf)”, *IEEE Transaction on Robotics*, March 2021. (under review)
 2. **Xusheng Luo**, Yiannis Kantaros, and Michael M. Zavlanos, “[An Abstraction-Free Method for Multi-Robot Temporal Logic Optimal Control Synthesis](https://arxiv.org/pdf/1909.00526.pdf)”, *IEEE Transactions
-on Robotics*, 2020.
-3. **Xusheng Luo**, Miroslav Pajic, and Michael M. Zavlanos, “[An Optimal Graph-Search Method for Secure State Estimation](https://www.sciencedirect.com/science/article/pii/S0005109820305239)”, *Automatica*, 2020.
+on Robotics*, Janunary 2021.
+3. **Xusheng Luo**, Miroslav Pajic, and Michael M. Zavlanos, “[An Optimal Graph-Search Method for Secure State Estimation](https://www.sciencedirect.com/science/article/pii/S0005109820305239)”, *Automatica*, September 2020.
 
 ### <span style="color: #6495ED"> Conference Proceedings
-1. Shiqi Sun, Yan Zhang, **Xusheng Luo**, P. Vlantis, and M M. Zavlanos, “Formal Verification of Stochastic Systems with ReLU Neural Network Controller”, *IEEE International Conference on Robotics and Automation (ICRA)*, Xi'an, China, 2021.(Submitted) 
-2. Yijie Zhou, Yan Zhang, **Xusheng Luo**, and Michael M. Zavlanos, “[Human-in-the-Loop Robot Planning with Non-Contextual Bandit Feedback](https://arxiv.org/pdf/2011.01793.pdf)”, *IEEE International Conference on Robotics and Automation (ICRA)*, Xi'an, China, 2021. (Submitted)
+1. Shiqi Sun, Yan Zhang, **Xusheng Luo**, P. Vlantis, Panagiotis Vlantis, and Miroslav Pajic, “[Formal Verification of Stochastic Systems with ReLU Neural Network Controller](https://arxiv.org/abs/2103.05142)”, *Robotics: Science and Systems*, 2021. (under review) 
+2. Yijie Zhou, Yan Zhang, **Xusheng Luo**, and Michael M. Zavlanos, “[Human-in-the-Loop Robot Planning with Non-Contextual Bandit Feedback](https://arxiv.org/pdf/2011.01793.pdf)”, *IEEE 60th Annual Conference on Decision and Control (CDC)*, USA, 2021 (under review).
 1. **Xusheng Luo<sup>\*</sup>**, Yan Zhang<sup>\*</sup>, and Michael M. Zavlanos, “[Socially-Aware Robot Planning via Bandit Human Feedback](https://ieeexplore.ieee.org/document/9095999?denied=)”, *ACM 11th International Conference on Cyber-Physical Systems (ICCPS)*, Sydney, Australia, April, 2020, pp. 216-225. (\* equal contribution)
 2. Duc M. Le, **Xusheng Luo**, Leila J. Bridgeman, Michael M. Zavlanos, and Warren E. Dixon, “[A Metric Temporal Logic Approach to Single-Agent Indirect Herding of Multiple Targets](https://ieeexplore.ieee.org/abstract/document/9304233/)”, *IEEE 59th Annual Conference on Decision and Control (CDC)*, Jeju Island, Republic of Korea, December 2020, pp. 1398-1403. 
 3. **Xusheng Luo**, Michael M. Zavlanos, “[Transfer Planning for Temporal Logic Tasks](https://ieeexplore.ieee.org/document/9030087?denied=)”, *IEEE 58th Annual Conference on Decision and Control (CDC)*, Nice, France, December 2019, pp. 5306–5311.
